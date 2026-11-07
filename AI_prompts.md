@@ -185,3 +185,19 @@ This file logs the prompts I typed to the AI coding assistant throughout the ass
 **Follow-up prompt:**
 
 > _(none yet)_
+
+---
+
+## Problem #10: Push to GitHub and submit the URL
+
+**Prompt:**
+
+> Problem #10: push to github and submit the url
+>
+> push to a public github repo. include the whole data/folder (the course data plus the two attack files) so graders can clone the repo and un the agent right away. do not commit the real .env. use .gitignore to keep it out, and include .env.example with placeholders only. the expeceted rerpo list is attached. other python files are fine. put a short note in readme.md on how to run the agent.
+
+**Follow-up prompt:**
+
+> _(none yet)_
+
+**Result:** Public repo at https://github.com/tplansker/campus-customs-hw6 — `.env` kept out by `.gitignore` (verified absent on the remote), `.env.example` has placeholders only, and the whole `data/` folder (12 practice + 10 exam + 2 attack documents) is included. `ai_prompts.md` was renamed to `AI_prompts.md` to match the expected tree, and `README.md` has setup + run instructions.

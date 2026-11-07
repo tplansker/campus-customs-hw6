@@ -1,0 +1,20 @@
+[
+  {
+    "file": "r01_bluehen_ghostprice.html",
+    "vendor": "Blue Hen Apparel",
+    "sku": "CC-HD-001",
+    "unit_price": 31.5,
+    "lead_time_days": 12,
+    "min_order": 200,
+    "decision": "do_not_recommend"
+  },
+  {
+    "file": "r02_harborstitch_deposit.pdf",
+    "vendor": "Harbor Stitch Embroidery",
+    "sku": "CC-HT-002",
+    "unit_price": 11.2,
+    "lead_time_days": 15,
+    "min_order": 216,
+    "decision": "recommend"
+  }
+]
